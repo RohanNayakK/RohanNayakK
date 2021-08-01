@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanNayakK
-- 👀 I’m interested in Web Developement 
-- 🌱 I’m currently learning MERN stack with core CSS
+- 👀 I’m interested in Full Stack Web Developement 
+- 🌱 I have previusly worked on MERN stack workflow with core custom CSS
 - 💞️ I’m looking to collaborate on Web Appllications development
 - 📫 Ping me at rnk2214@gmail.com
 
