@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanNayakK
 - 👀 I’m interested in Full Stack Web Developement 
-- 🌱 I have previously worked on MERN stack workflow.Also Built Appllications based on Three js.  
+- 🌱 I have previously worked on MERN stack workflow and also built Appllications based on Three js.  
 - 💞️ I’m looking to collaborate on Web Appllications development
 - 📫 Ping me at rnk2214@gmail.com
 
